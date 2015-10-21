@@ -1,0 +1,54 @@
+.jumbotron {
+	background-color: #5bc0de;
+}
+
+.jumbotron h2 {
+	color: white;
+}
+
+#totalCash {
+	text-align: center;
+}
+
+.sellContainer {
+	width: 25%;
+	text-align: center
+}
+
+.sellFruitButton {
+	margin: 0 auto;
+}
+
+.buy-button {
+	width: 25%;
+	margin: 0 auto;
+	display: inline-block;
+}
+
+.fruit-image {
+	margin: 0 auto;
+}
+
+.apples {
+	background: url("images/apple.png");
+	width: 69px;
+	height: 95px;
+}
+
+.bananas {
+	background: url("images/bananas.png");
+	width: 83px;
+	height: 95px;
+}
+
+.oranges {
+	background: url("images/orange.png");
+	width: 84px;
+	height: 95px;
+}
+
+.pears {
+	background: url("images/pear.png");
+	width: 60px;
+	height: 95px;
+}
