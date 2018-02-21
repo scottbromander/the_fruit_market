@@ -1,6 +1,8 @@
 # The Fruit Market  
 ## Example for Prime Academy Students
 
+[Live on CodePen](https://codepen.io/docix/pen/XKRNbg)
+
 Here is an example build of the fruit market challenge you faced over the past couple days. 
 
 Please download and take notes while we discuss it!
