@@ -1,7 +1,7 @@
 ![MIT LICENSE](https://img.shields.io/github/license/scottbromander/the_fruit_market.svg?style=flat-square)
 ![REPO SIZE](https://img.shields.io/github/repo-size/scottbromander/the_fruit_market.svg?style=flat-square)
 ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/scottbromander/the_fruit_market.svg?style=flat-square)
-![STARS](https://img.shields.io/github/stars/scottbromander/the_fruit_market.svg?style=flat-square)
+![FORKS](https://img.shields.io/github/forks/scottbromander/the_fruit_market.svg?style=social)
 
 # The Fruit Market  
 ## Example for Prime Academy Students
